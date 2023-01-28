@@ -6,11 +6,11 @@
 | --------------------- | ----------------------------------------- |
 | :sparkles: Nome       | **Habits**                                |
 | :label: Tecnologias   | React, React-Native, Fastify              |
-| :rocket: URL          | NDA   |
+| :rocket: URL          | NDA                                       |
 | :fire: Repositorio    | https://github.com/diovanealves/NLW-Setup |
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/preview.svg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 <p align="center">
