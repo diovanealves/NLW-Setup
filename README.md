@@ -6,7 +6,7 @@
 | --------------------- | ----------------------------------------- |
 | :sparkles: Nome       | **Habits**                                |
 | :label: Tecnologias   | React, React-Native, Fastify              |
-| :rocket: URL          | https://diovanealves.github.io/habits/    |
+| :rocket: URL          | NDA   |
 | :fire: Repositorio    | https://github.com/diovanealves/NLW-Setup |
 
 <p align="center">
